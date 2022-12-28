@@ -20,7 +20,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
   <a href="https://github.com/goncadanilo/">
-    <img alt="Author" src="https://img.shields.io/badge/authorNatali Dias-blue">
+    <img alt="Author" src="https://img.shields.io/badge/author:Natali Dias-blue">
   </a>
 </p>
 
