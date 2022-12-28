@@ -24,8 +24,17 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+✏️ Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+NestJS: framework utilizado para criação da aplicação.
+Postgres: banco SQL utilizado para armazenar os dados.
+Docker e Docker-compose: utilizado para criar e rodar o container do banco de dados.
+Jest: utilizado para escrever os testes da aplicação.
+GitFlow: utilizado no fluxo de desenvolvimento.
+Swagger: utilizado para documentar a aplicação.
+
+
 
 ## Installation
 
