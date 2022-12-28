@@ -74,14 +74,9 @@ _(se você não estiver usando o docker, é necessário criar o banco manualment
 
 ### Rodar a aplicação
 
-```bash
+
 $ npm install
-```
 
-## Running the app
-
-```bash
-# development
 $ npm run start
 
 # watch mode
