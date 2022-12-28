@@ -5,9 +5,9 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/goncadanilo/simple-crud-nestjs.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Natali-Dias-DevAprender/simple-crud-nestjs.svg">
 
-  <a href="https://github.com/goncadanilo/simple-crud-nestjs/commits/master">
+  <a href="https://github.com/Natali-Dias-DevAprender/Crud-completo-com-NestJs">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/goncadanilo/simple-crud-nestjs.svg">
   </a>
 
