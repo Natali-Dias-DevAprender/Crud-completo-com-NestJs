@@ -1,37 +1,74 @@
-<h1> 📌Crud completo com Nestjs</h1>
 
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+
+ <h1 align="center">
+  🚀 CRUD NestJS
+</h1>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/goncadanilo/simple-crud-nestjs.svg">
+
+  <a href="https://github.com/goncadanilo/simple-crud-nestjs/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/goncadanilo/simple-crud-nestjs.svg">
+  </a>
+
+  <a href="https://github.com/goncadanilo/simple-crud-nestjs/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/goncadanilo/simple-crud-nestjs.svg">
+  </a>
+
+  <img alt="Coverage" src="https://img.shields.io/badge/coverage-100%25-brightgreen">
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+
+  <a href="https://github.com/goncadanilo/">
+    <img alt="Author" src="https://img.shields.io/badge/author-Danilo%20Gon%C3%A7alves-blue">
+  </a>
 </p>
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
-
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
 </p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-<h3>✏️ Tecnologias</h3>
+<br>
+
+<p align="center">
+  <img alt="CRUD NestJS" src=".github/banner-crud-nestjs.png" width="80%">
+</p>
+
+## 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-NestJS: framework utilizado para criação da aplicação.
-Postgres: banco SQL utilizado para armazenar os dados.
-Docker e Docker-compose: utilizado para criar e rodar o container do banco de dados.
-Jest: utilizado para escrever os testes da aplicação.
-GitFlow: utilizado no fluxo de desenvolvimento.
-Swagger: utilizado para documentar a aplicação.
+- [NestJS](https://nestjs.com/): framework utilizado para criação da aplicação.
+- [Postgres](https://www.postgresql.org/): banco SQL utilizado para armazenar os dados.
+- [Docker](https://www.docker.com/) e [Docker-compose](https://docs.docker.com/compose/install/): utilizado para criar e rodar o container do banco de dados.
+- [Jest](https://jestjs.io/): utilizado para escrever os testes da aplicação.
+- [GitFlow](https://github.com/nvie/gitflow): utilizado no fluxo de desenvolvimento.
+- [Swagger](https://swagger.io/): utilizado para documentar a aplicação.
+
+## 💻 Projeto
+
+Esse projeto é um simple CRUD de produtos desenvolvido com o intuito de estudar o framework [NestJS](https://nestjs.com/). Porém aplicando alguns conceitos mais avançados como: TDD, GitFlow, Docker, etc.
+
+## ⚡ Como rodar
+
+### Requisitos
+
+- [Node.js](https://nodejs.org/en/).
+- [NestJS CLI](https://docs.nestjs.com/first-steps).
+- [Yarn](https://yarnpkg.com/) ou se preferir, pode usar o npm _(já vem com o node)_.
+- [Docker](https://www.docker.com/) e [Docker-compose](https://docs.docker.com/compose/install/) _(opcional)_.
+
+### Subir o banco
+
+- crie uma cópia do `.env.example` como `.env` e defina suas variáveis do banco.
+- suba o banco de dados com docker: `docker-compose up -d`.
+
+_(se você não estiver usando o docker, é necessário criar o banco manualmente)_.
+- rode as migrations: `yarn typeorm migration:run`.
+
 
 
 
