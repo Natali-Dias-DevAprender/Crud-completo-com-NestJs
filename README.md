@@ -23,7 +23,7 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-###✏️ Tecnologias
+<h3>✏️ Tecnologias</h3>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 NestJS: framework utilizado para criação da aplicação.
