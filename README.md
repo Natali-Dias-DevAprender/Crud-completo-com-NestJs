@@ -72,7 +72,7 @@ _(se você não estiver usando o docker, é necessário criar o banco manualment
 
 
 
-## Installation
+### Rodar a aplicação
 
 ```bash
 $ npm install
@@ -91,7 +91,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Rodar os testes
 
 ```bash
 # unit tests
@@ -104,7 +104,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
+## Licença
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
@@ -115,5 +115,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
-
-Nest is [MIT licensed](LICENSE).
+Feito com ♥ by [Natali Dias](https://github.com/Natali-Dias-DevAprender).
