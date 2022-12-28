@@ -43,7 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Docker](https://www.docker.com/) e [Docker-compose](https://docs.docker.com/compose/install/): utilizado para criar e rodar o container do banco de dados.
 - [Jest](https://jestjs.io/): utilizado para escrever os testes da aplicação.
 - [GitFlow](https://github.com/nvie/gitflow): utilizado no fluxo de desenvolvimento.
-- [Swagger](https://swagger.io/): utilizado para documentar a aplicação.
+
 
 ## 💻 Projeto
 
