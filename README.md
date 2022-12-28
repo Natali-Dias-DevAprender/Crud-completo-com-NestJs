@@ -33,9 +33,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="CRUD NestJS" src=".github/banner-crud-nestjs.png" width="80%">
-</p>
 
 ## 🚀 Tecnologias
 
