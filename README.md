@@ -51,7 +51,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Layout de restrição: todas as atividades no aplicativo usam um layout de restrição flexível, fácil de manusear para diferentes tamanhos de tela.
 - Android Studio
 - Usando a linguagem Kotlin
-- Arquitetura MVVM
+- Clean Code e Arquitetura MVVM
 - Android framework
 - Significados podem ser acessados através do método GET em qualquer uma das seguintes rotas:
  /[palavra]
