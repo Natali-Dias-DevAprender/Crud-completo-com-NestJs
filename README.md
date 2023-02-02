@@ -36,6 +36,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Funcionalidade de cache offline
 - Design de Tema Claro e Escuro
 - Caches e exibe pesquisas anteriores
+- Exibição de palavra, significados e a fonética
 
 
   ## 💻 Conceitos usados
