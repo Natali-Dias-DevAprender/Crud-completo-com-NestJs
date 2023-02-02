@@ -57,7 +57,6 @@ Existem três módulos no aplicativo:
 - mobile - camada de interface do usuário do aplicativo móvel
 - desgaste - camada de interface do usuário do aplicativo de desgaste
 
-
 <h1
 ## Tech Stack
 <h/1>
@@ -81,18 +80,6 @@ Existem três módulos no aplicativo:
 
 [Free Dictionary API](https://dictionaryapi.dev/)
 
-
-
-
-
-## ⚡ Como rodar
-
-### Requisitos
-
-- [Node.js](https://nodejs.org/en/).
-- [NestJS CLI](https://docs.nestjs.com/first-steps).
-- [Npm](https://yarnpkg.com/) ou se preferir, pode usar o yarn _(já vem com o node)_.
-- [Docker](https://www.docker.com/) e [Docker-compose](https://docs.docker.com/compose/install/) _(opcional)_.
 
 ### Subir o banco
 
