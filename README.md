@@ -16,9 +16,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <a href="https://github.com/goncadanilo/simple-crud-nestjs/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/goncadanilo/simple-crud-nestjs.svg">
-  </a>
+  
 
   <img alt="Coverage" src="https://img.shields.io/badge/coverage-100%25-brightgreen">
 
