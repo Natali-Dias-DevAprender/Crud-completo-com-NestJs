@@ -105,8 +105,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Natalí Dias](https://kamilmysliwiec.com)
-- Twitter - [@Android Studio](https://developer.android.com/studio/intro?hl=pt-br)
+- Author - [@Natalí Dias](https://kamilmysliwiec.com)
+- Plataforma - [@Android Studio](https://developer.android.com/studio/intro?hl=pt-br)
 
 ## License
 Feito com ♥ by [Coodesh](https://coodesh.com).
