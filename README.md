@@ -15,18 +15,7 @@
 </p>
 
 
-
-[circleci-image]: https://media.discordapp.net/attachments/1019265341311963186/1070501163625087057/Original2x.png?width=720&height=221
-[circleci-url]: https://circleci.com/gh/nestjs/nest
-
-  
-
-  <img alt="Coverage" src="https://img.shields.io/badge/coverage-100%25-brightgreen">
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-
-  <a href="https://github.com/goncadanilo/">
-    <img alt="Author" src="https://img.shields.io/badge/author:Natali Dias-blue">
+   <img alt="Author" src="https://img.shields.io/badge/author:Natali Dias-blue">
   </a>
 </p>
 
