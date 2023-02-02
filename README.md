@@ -33,7 +33,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Mostrar lista de palavras favoritas(Em processo de criação)
 - Remover palavras de favocitos(Em processo de implementação)
 - Funcionalidade de cache offline
-- Funcionalidade de texto para fala em voz
+- Funcionalidade de conversão de texto em fala
 - Design de Tema Claro e Escuro
 - Caches e exibe pesquisas anteriores
 - Exibição de palavra, significados e a fonética
