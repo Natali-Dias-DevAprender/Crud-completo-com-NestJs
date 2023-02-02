@@ -9,9 +9,11 @@
 
   ## ✏️ Introdução
 
-  Este é um desafio da Coodesh para avaliação de habilidades do candidato como Mobile Developer.
-  Nesse desafio desenvolvi  um aplicativo para listar palavras em inglês, utilizando como base a API Free Dictionary API. O projeto desenvolvido tem como objetivo     
-  exibir termos em inglês e gerenciar as palavras visualizadas.
+  Este é um aplicativo de dicionário para o Android. Basicamente, foi criado para o idioma inglês. O dicionário está em modelo de protótipo.
+  Você pode adicionar mais palavras na classe de palavras que está sob a atividade principal deste projeto. Eu usei a visualização do RecyclerView para listar as  
+  palavras. Além disso, colocou o botão de pesquisa na parte superior da visualização, onde você pode pesquisar uma palavra específica e encontrar seu significado.
+  
+
 
 
 <p align="center">
@@ -55,6 +57,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
  /[palavra]
  /significados/[palavra]
  /meanings/[palavra]
+- Bibliotecas - CardView
  
 
 
@@ -70,10 +73,13 @@ Ele fornece as seguintes funcionalidades para o usuário:
 
 ## Subir o banco
 
+- Banco de dados: SQLite
 - crie uma cópia do `.env.example` como `.env` e defina suas variáveis do banco.
-- suba o banco de dados com docker: `docker-compose up -d`.
+- Usando a linguagem Kotlin
 
-_(se você não estiver usando o docker, é necessário criar o banco manualmente)_.
+
+
+
 
 ## Licença
 
