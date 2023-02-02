@@ -10,7 +10,7 @@
   exibir termos em inglês e gerenciar as palavras visualizadas.
 
 <p align="center">
-  <a href="https://media.discordapp.net/attachments/1019265341311963186/1070501163625087057/Original2x.png?width=720&height=221" width="200" alt="Nest Logo" /></a>
+  <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcoodesh.com%2Fblog%2Fwp-content%2Fuploads%2F2022%2F01%2Facoes-de-employer-branding-da-coodesh-scaled.jpg&imgrefurl=https%3A%2F%2Fcoodesh.com%2Fblog%2Frh-tech%2Fconfira-as-acoes-de-employer-branding-na-coodesh%2F&tbnid=NnqpwQ8XX37O0M&vet=12ahUKEwjV7J2t7_X8AhViGbkGHaf4BaMQMygHegUIARDLAQ..i&docid=PGFhqv7HU4DxjM&w=2560&h=1440&q=coodesh&client=opera-gx&ved=2ahUKEwjV7J2t7_X8AhViGbkGHaf4BaMQMygHegUIARDLAQ" width="200" alt="Nest Logo" /></a>
 </p>
 
 
