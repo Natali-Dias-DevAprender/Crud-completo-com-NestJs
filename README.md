@@ -50,6 +50,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 <h1 align="vertical">
   ## 💻 Arquitetura
 </h1>
+
 Existem três módulos no aplicativo:
 
 - core - funcionalidade central, dados, domínio e camadas de apresentação
@@ -60,6 +61,7 @@ Existem três módulos no aplicativo:
 <h1
 ## Tech Stack
 <h/1>
+
 - Core
 - Android Studio
 - Kotlin
@@ -69,12 +71,14 @@ Existem três módulos no aplicativo:
 <h1
 ## Bibliotecas
 </h1>
- - Retrofit - HTTP network library
+
+- Retrofit - HTTP network library
  - ViewModel - is designed to store and manage UI-related data in a lifecycle conscious
 
 <h1
  ## API
 </h1>
+
 [Free Dictionary API](https://dictionaryapi.dev/)
 
 
