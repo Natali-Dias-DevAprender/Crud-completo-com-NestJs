@@ -74,9 +74,9 @@ Existem três módulos no aplicativo:
 - Retrofit - HTTP network library
  - ViewModel - is designed to store and manage UI-related data in a lifecycle conscious
 
-<h1
+
  ## API
-</h1>
+
 
 [Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -87,11 +87,6 @@ Existem três módulos no aplicativo:
 - suba o banco de dados com docker: `docker-compose up -d`.
 
 _(se você não estiver usando o docker, é necessário criar o banco manualmente)_.
-- rode as migrations: `yarn typeorm migration:run`.
-
-
-
-
 
 ## Licença
 
