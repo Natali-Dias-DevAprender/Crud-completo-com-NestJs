@@ -25,7 +25,7 @@
 <br>
 
 
- <h1 align="center">
+ <h1 align="vertical">
   ## 📚 Features
 </h1>
 
