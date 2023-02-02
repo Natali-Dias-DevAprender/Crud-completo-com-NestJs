@@ -27,7 +27,7 @@
 Ele fornece as seguintes funcionalidades para o usuário:
 
 - Pesquise as definições de uma palavra em inglês
-- Barra de pesquisa(Adicional)
+- Substituição de (Word list) por barra de pesquisa(Adicional)
 - O aplicativo Android permite que você procure palavras usando Free Dictionary API
 - Salvar palavras nos favoritos(Em processo de criação)
 - Mostrar lista de palavras favoritas(Em processo de criação)
