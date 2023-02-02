@@ -72,14 +72,14 @@ Ele fornece as seguintes funcionalidades para o usuário:
 ## Install
 
 
-## 1 Implementações importantes para o seu projeto
+## Implementações de dependêcias do Retrofit no nosso projeto
 
 <p align="center">
   <a href="https://media.discordapp.net/attachments/1019265341311963186/1070718472922869780/imagem_2023-02-02_115343255.png?width=628&height=377" target="blank"><img src="https://media.discordapp.net/attachments/1019265341311963186/1070718472922869780/imagem_2023-02-02_115343255.png?width=628&height=377" width="200" alt="Nest Logo" /></a>
 </p>
 
 
-## 2 Implementação de web service(Abra a imagem)
+## Implementação da web service(Abra a imagem)
 
 
 <p align="center">
