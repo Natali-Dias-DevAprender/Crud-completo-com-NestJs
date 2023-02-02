@@ -34,6 +34,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Remover palavras de favocitos
 - Filtrar palavras nos favoritos
 - Funcionalidade de cache offline
+- Funcionalidade de texto para fala em voz
 - Design de Tema Claro e Escuro
 - Caches e exibe pesquisas anteriores
 - Exibição de palavra, significados e a fonética
