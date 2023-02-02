@@ -32,6 +32,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Salvar palavras nos favoritos
 - Mostrar lista de palavras favoritas
 - Remover palavras do Histórico
+- Remover palavras de favocitos
 - Filtrar palavras nos favoritos
 - Funcionalidade de cache offline
 - Design de Tema Claro e Escuro
