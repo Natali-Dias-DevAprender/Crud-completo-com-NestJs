@@ -69,8 +69,13 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Bibliotecas - CardView
 
 
-## Certifique-se de iplementar o Retrofit no seu projeto
-https://media.discordapp.net/attachments/1019265341311963186/1070717638013108224/impleRetrofit.png?width=774&height=166
+## Certifique-se de inplementar o Retrofit no seu projeto
+
+<p align="center">
+  <a href="https://media.discordapp.net/attachments/1019265341311963186/1070717638013108224/impleRetrofit.png?width=774&height=166" target="blank"><img src="https://media.discordapp.net/attachments/1019265341311963186/1070717638013108224/impleRetrofit.png?width=774&height=166" width="200" alt="Nest Logo" /></a>
+</p>
+
+
 
 
  ## API
