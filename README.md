@@ -31,7 +31,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - O aplicativo Android permite que você procure palavras usando Free Dictionary API
 - Salvar palavras nos favoritos
 - Mostrar lista de palavras favoritas
-- Remover palavras dos favoritos
+- Remover palavras do Histórico
 - Filtrar palavras nos favoritos
 - Funcionalidade de cache offline
 - Design de Tema Claro e Escuro
