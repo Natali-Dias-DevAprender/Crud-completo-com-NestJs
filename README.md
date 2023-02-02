@@ -15,10 +15,6 @@
 </p>
 
 
-   <img alt="Author" src="https://img.shields.io/badge/author:Natali Dias-blue">
-  </a>
-</p>
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
