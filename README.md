@@ -9,7 +9,7 @@
 
 
 <h2 align="vertical">
-  ## ✏️Introdução
+  ## ✏️ Introdução
 </h2>
 
   Este é um desafio da Coodesh para avaliação de habilidades do candidato como Mobile Developer.
@@ -47,9 +47,9 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Remover palavras dos favoritos
 - Filtrar palavras nos favoritos
 
-<h3 align="vertical">
-  ## Arquitetura
-</h3>
+<h4 align="vertical">
+  ## 💻 Arquitetura
+</h4>
 Existem três módulos no aplicativo:
 
 core - funcionalidade central, dados, domínio e camadas de apresentação
@@ -65,7 +65,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [GitFlow](https://github.com/nvie/gitflow): utilizado no fluxo de desenvolvimento.
 
 
-## 💻 Projeto
+<h5
+## Tech Stack
+<h/5>
+Core
+Android Studio
+Kotlin
+Android framework
+ 
 
 Esse projeto é um simple CRUD de produtos desenvolvido com o intuito de estudar o framework [NestJS](https://nestjs.com/). Porém aplicando alguns conceitos mais avançados como: TDD, GitFlow, Docker, etc.
 
@@ -89,32 +96,6 @@ _(se você não estiver usando o docker, é necessário criar o banco manualment
 
 
 
-### Rodar a aplicação
-
-
-$ npm install
-
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Rodar os testes
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
 
 ## Licença
 
