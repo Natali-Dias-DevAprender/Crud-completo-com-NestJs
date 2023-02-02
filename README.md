@@ -49,7 +49,6 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - O aplicativo tem uma interface muito simples e interativa que ajuda o usuário a inserir as palavras e obter sua definição em formato de flashcard.
 - Recyclerview : Para apresentar a lista de palavras diferentes, usamos o eficiente recyclerview.
 - Layout de restrição: todas as atividades no aplicativo usam um layout de restrição flexível, fácil de manusear para diferentes tamanhos de tela.
-- Biblioteca Gson: para analisar o json dentro do aplicativo.
 - Android Studio
 - Usando a linguagem Kotlin
 - Arquitetura MVVM
@@ -58,7 +57,6 @@ Ele fornece as seguintes funcionalidades para o usuário:
  /[palavra]
  /significados/[palavra]
  /meanings/[palavra]
-- Bibliotecas - CardView
 - LiveData
  
 
@@ -67,6 +65,8 @@ Ele fornece as seguintes funcionalidades para o usuário:
 
 - Retrofit - HTTP network library
 - ViewModel - is designed to store and manage UI-related data in a lifecycle conscious
+- Biblioteca Gson: para analisar o json dentro do aplicativo.
+- Bibliotecas - CardView
 
 
  ## API
