@@ -38,7 +38,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Caches e exibe pesquisas anteriores
 
 
-  ## 💻 Funcionalidade & Conceitos usados
+  ## 💻 Conceitos usados
 
  A seguir estão alguns conceitos do Android usados para alcançar as funcionalidades no aplicativo:
 
@@ -75,10 +75,6 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Banco de dados: SQLite
 - crie uma cópia do `.env.example` como `.env` e defina suas variáveis do banco.
 - Usando a linguagem Kotlin
-
-
-
-
 
 ## Licença
 
