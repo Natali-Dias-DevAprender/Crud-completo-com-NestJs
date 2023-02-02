@@ -9,9 +9,11 @@
   Nesse desafio desenvolvi  um aplicativo para listar palavras em inglês, utilizando como base a API Free Dictionary API. O projeto desenvolvido tem como objetivo     
   exibir termos em inglês e gerenciar as palavras visualizadas.
 
+
 <p align="center">
-  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoodesh.com%2Fblog%2Frh-tech%2Fconfira-as-acoes-de-employer-branding-na-coodesh%2F&psig=AOvVaw3xBWeOpczMpm8XIWcwccbd&ust=1675394925375000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICRmOPy9fwCFQAAAAAdAAAAABAQ" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoodesh.com%2Fblog%2Frh-tech%2Fconfira-as-acoes-de-employer-branding-na-coodesh%2F&psig=AOvVaw3xBWeOpczMpm8XIWcwccbd&ust=1675394925375000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICRmOPy9fwCFQAAAAAdAAAAABAQ" width="200" alt="Nest Logo" /></a>
+  <a href="https://cdn.discordapp.com/attachments/1019265341311963186/1070546778836959322/cood.jpg" target="blank"><img src="https://cdn.discordapp.com/attachments/1019265341311963186/1070546778836959322/cood.jpg" width="200" alt="Nest Logo" /></a>
 </p>
+
 
 
 [circleci-image]: https://media.discordapp.net/attachments/1019265341311963186/1070501163625087057/Original2x.png?width=720&height=221
