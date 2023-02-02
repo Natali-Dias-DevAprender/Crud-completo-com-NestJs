@@ -6,7 +6,7 @@
 
 
  <h2 align="vertical">
-  ##Introduçãp
+  ## ✏️Introdução
 </h2>
 
   Este é um desafio da Coodesh para avaliação de habilidades do candidato como Mobile Developer.
@@ -29,24 +29,29 @@
 <br>
 
 
- <h1 align="vertical">
+ <h3 align="vertical">
   ## 📚 Features
-</h1>
+</h3>
 
 
-- O aplicativo Android permite que você:
-- Procure palavras usando WordsAPI
+Ele fornece as seguintes funcionalidades para o usuário:
+
+- Pesquise as definições de uma palavra em inglês
+- Veja o histórico de suas solicitações de pesquisa
+- O aplicativo Android permite que você procure palavras usando Free Dictionary API
 - Salvar palavras nos favoritos
-= Mostrar lista de palavras favoritas
+- Mostrar lista de palavras favoritas
 - Remover palavras dos favoritos
 - Filtrar palavras nos favoritos
 
+<h3 align="vertical">
+  ## Arquitetura
+</h3>
+Existem três módulos no aplicativo:
 
-
-
-
-<br>
-## 🚀 Tecnologias
+core - funcionalidade central, dados, domínio e camadas de apresentação
+mobile - camada de interface do usuário do aplicativo móvel
+desgaste - camada de interface do usuário do aplicativo de desgaste
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
