@@ -52,19 +52,34 @@ Ele fornece as seguintes funcionalidades para o usuário:
 </h1>
 Existem três módulos no aplicativo:
 
-core - funcionalidade central, dados, domínio e camadas de apresentação
-mobile - camada de interface do usuário do aplicativo móvel
-desgaste - camada de interface do usuário do aplicativo de desgaste
+- core - funcionalidade central, dados, domínio e camadas de apresentação
+- mobile - camada de interface do usuário do aplicativo móvel
+- desgaste - camada de interface do usuário do aplicativo de desgaste
 
 
 <h1
 ## Tech Stack
 <h/1>
-Core
-Android Studio
-Kotlin
-Android framework
+- Core
+- Android Studio
+- Kotlin
+- Android framework
  
+
+<h1
+## Bibliotecas
+</h1>
+ - Retrofit - HTTP network library
+ - ViewModel - is designed to store and manage UI-related data in a lifecycle conscious
+
+<h1
+ ## API
+</h1>
+[Free Dictionary API](https://dictionaryapi.dev/)
+
+
+
+
 
 ## ⚡ Como rodar
 
