@@ -52,6 +52,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Biblioteca Gson: para analisar o json dentro do aplicativo.
 - Android Studio
 - Usando a linguagem Kotlin
+- Arquitetura MVVM
 - Android framework
 - Significados podem ser acessados através do método GET em qualquer uma das seguintes rotas:
  /[palavra]
