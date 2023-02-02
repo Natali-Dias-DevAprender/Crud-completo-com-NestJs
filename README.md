@@ -49,7 +49,6 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Recyclerview : Para apresentar a lista de palavras diferentes, usamos o eficiente recyclerview.
 - Layout de restrição: todas as atividades no aplicativo usam um layout de restrição flexível, fácil de manusear para diferentes tamanhos de tela.
 - Biblioteca Gson: para analisar o json dentro do aplicativo.
-- Core
 - Android Studio
 - Kotlin
 - Android framework
