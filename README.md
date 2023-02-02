@@ -8,9 +8,9 @@
 
 
 
-<h2 align="vertical">
+<h1 align="vertical">
   ## ✏️ Introdução
-</h2>
+</h1>
 
   Este é um desafio da Coodesh para avaliação de habilidades do candidato como Mobile Developer.
   Nesse desafio desenvolvi  um aplicativo para listar palavras em inglês, utilizando como base a API Free Dictionary API. O projeto desenvolvido tem como objetivo     
@@ -32,9 +32,9 @@
 <br>
 
 
- <h3 align="vertical">
+ <h1 align="vertical">
   ## 📚 Features
-</h3>
+</h1>
 
 
 Ele fornece as seguintes funcionalidades para o usuário:
@@ -47,9 +47,9 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Remover palavras dos favoritos
 - Filtrar palavras nos favoritos
 
-<h4 align="vertical">
+<h1 align="vertical">
   ## 💻 Arquitetura
-</h4>
+</h1>
 Existem três módulos no aplicativo:
 
 core - funcionalidade central, dados, domínio e camadas de apresentação
@@ -65,9 +65,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [GitFlow](https://github.com/nvie/gitflow): utilizado no fluxo de desenvolvimento.
 
 
-<h5
+<h1
 ## Tech Stack
-<h/5>
+<h/1>
 Core
 Android Studio
 Kotlin
