@@ -4,7 +4,11 @@
   Desafio Mobile 🏅 2023 - Dicionário de Inglês
 </h1>
 
-## Introdução
+
+ <h2 align="vertical">
+  ## ## Introduçãp
+</h12>
+
   Este é um desafio da Coodesh para avaliação de habilidades do candidato como Mobile Developer.
   Nesse desafio desenvolvi  um aplicativo para listar palavras em inglês, utilizando como base a API Free Dictionary API. O projeto desenvolvido tem como objetivo     
   exibir termos em inglês e gerenciar as palavras visualizadas.
