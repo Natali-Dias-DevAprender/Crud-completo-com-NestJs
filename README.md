@@ -6,8 +6,8 @@
 
 
  <h2 align="vertical">
-  ## ## Introduçãp
-</h12>
+  ##Introduçãp
+</h2>
 
   Este é um desafio da Coodesh para avaliação de habilidades do candidato como Mobile Developer.
   Nesse desafio desenvolvi  um aplicativo para listar palavras em inglês, utilizando como base a API Free Dictionary API. O projeto desenvolvido tem como objetivo     
