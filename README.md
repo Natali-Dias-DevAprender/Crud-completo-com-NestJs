@@ -23,7 +23,12 @@
 </p>
 
 <br>
-## 📚 Features
+
+
+ <h1 align="center">
+  ## 📚 Features
+</h1>
+
 
 - O aplicativo Android permite que você:
 - Procure palavras usando WordsAPI
