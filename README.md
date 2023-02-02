@@ -25,30 +25,36 @@
 Ele fornece as seguintes funcionalidades para o usuário:
 
 - Pesquise as definições de uma palavra em inglês
-- Veja o histórico de suas solicitações de pesquisa
+- Barra de pesquisa
 - O aplicativo Android permite que você procure palavras usando Free Dictionary API
 - Salvar palavras nos favoritos
 - Mostrar lista de palavras favoritas
 - Remover palavras dos favoritos
 - Filtrar palavras nos favoritos
+- Funcionalidade de cache offline
+- Design de Tema Claro e Escuro
+- Caches e exibe pesquisas anteriores
 
 
-  ## 💻 Arquitetura
+  ## 💻 Funcionalidade & Conceitos usados
 
-
-Existem três módulos no aplicativo:
+ A seguir estão alguns conceitos do Android usados para alcançar as funcionalidades no aplicativo:
 
 - core - funcionalidade central, dados, domínio e camadas de apresentação
 - mobile - camada de interface do usuário do aplicativo móvel
 - desgaste - camada de interface do usuário do aplicativo de desgaste
-
-
-## Tech Stack
-
+- O aplicativo tem uma interface muito simples e interativa que ajuda o usuário a inserir as palavras e obter sua definição em formato de flashcard.
+- Recyclerview : Para apresentar a lista de palavras diferentes, usamos o eficiente recyclerview.
+- Layout de restrição: todas as atividades no aplicativo usam um layout de restrição flexível, fácil de manusear para diferentes tamanhos de tela.
+- Biblioteca Gson: para analisar o json dentro do aplicativo.
 - Core
 - Android Studio
 - Kotlin
 - Android framework
+- Significados podem ser acessados através do método GET em qualquer uma das seguintes rotas:
+ /[palavra]
+ /significados/[palavra]
+ /meanings/[palavra]
  
 
 
