@@ -26,17 +26,17 @@
 
 Ele fornece as seguintes funcionalidades para o usuário:
 
--Pesquise as definições de uma palavra em inglês
--Barra de pesquisa(Adicional)
--O aplicativo Android permite que você procure palavras usando Free Dictionary API
--Salvar palavras nos favoritos(Em processo de criação)
--Mostrar lista de palavras favoritas(Em processo de criação)
--Remover palavras de favocitos(Em processo de implementação)
--Funcionalidade de cache offline
--Funcionalidade de texto para fala em voz
--Design de Tema Claro e Escuro
--Caches e exibe pesquisas anteriores
--Exibição de palavra, significados e a fonética
+-✅ Pesquise as definições de uma palavra em inglês
+- Barra de pesquisa(Adicional)
+- O aplicativo Android permite que você procure palavras usando Free Dictionary API
+- Salvar palavras nos favoritos(Em processo de criação)
+- Mostrar lista de palavras favoritas(Em processo de criação)
+- Remover palavras de favocitos(Em processo de implementação)
+- Funcionalidade de cache offline
+- Funcionalidade de texto para fala em voz
+- Design de Tema Claro e Escuro
+- Caches e exibe pesquisas anteriores
+- Exibição de palavra, significados e a fonética
 
 
   ## 💻 Conceitos usados
