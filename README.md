@@ -51,7 +51,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Layout de restrição: todas as atividades no aplicativo usam um layout de restrição flexível, fácil de manusear para diferentes tamanhos de tela.
 - Biblioteca Gson: para analisar o json dentro do aplicativo.
 - Android Studio
-- Kotlin
+- Usando a linguagem Kotlin
 - Android framework
 - Significados podem ser acessados através do método GET em qualquer uma das seguintes rotas:
  /[palavra]
@@ -75,7 +75,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 
 - Banco de dados: SQLite
 - crie uma cópia do `.env.example` como `.env` e defina suas variáveis do banco.
-- Usando a linguagem Kotlin
+
 
 ## Licença
 Android Studio é um ambiente de desenvolvimento integrado para desenvolver para a plataforma Android. Foi anunciado em 16 de Maio de 2013 na conferência Google I/O. Android Studio é disponibilizado gratuitamente sob a Licença Apache 2.0.
