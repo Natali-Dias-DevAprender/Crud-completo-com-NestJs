@@ -77,8 +77,8 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Usando a linguagem Kotlin
 
 ## Licença
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://support.google.com/android/?hl=pt-BR#topic=7313011).
+Android Studio é um ambiente de desenvolvimento integrado para desenvolver para a plataforma Android. Foi anunciado em 16 de Maio de 2013 na conferência Google I/O. Android Studio é disponibilizado gratuitamente sob a Licença Apache 2.0.
+(https://support.google.com/android/?hl=pt-BR#topic=7313011).
 
 ## Stay in touch
 
