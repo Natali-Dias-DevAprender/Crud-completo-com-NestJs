@@ -23,8 +23,20 @@
 </p>
 
 <br>
+## 📚 Features
+
+- O aplicativo Android permite que você:
+- Procure palavras usando WordsAPI
+- Salvar palavras nos favoritos
+= Mostrar lista de palavras favoritas
+- Remover palavras dos favoritos
+- Filtrar palavras nos favoritos
 
 
+
+
+
+<br>
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
