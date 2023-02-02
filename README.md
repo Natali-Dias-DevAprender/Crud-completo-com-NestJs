@@ -1,11 +1,16 @@
 
 
  <h1 align="center">
-  🚀 CRUD NestJS
+  Desafio Mobile 🏅 2023 - Dicionário
+
+  Introdução
+  Este é um desafio da Coodesh para avaliação de habilidades do candidato como Mobile Developer.
+  Nesse desafio desenvolvi  um aplicativo para listar palavras em inglês, utilizando como base a API Free Dictionary API. O projeto desenvolvido tem como objetivo     
+  exibir termos em inglês e gerenciar as palavras visualizadas. 
 </h1>
 
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="https://media.discordapp.net/attachments/1019265341311963186/1070501163625087057/Original2x.png?width=720&height=221" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
