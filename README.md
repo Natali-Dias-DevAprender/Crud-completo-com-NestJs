@@ -31,7 +31,6 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - O aplicativo Android permite que você procure palavras usando Free Dictionary API
 - Salvar palavras nos favoritos
 - Mostrar lista de palavras favoritas
-- Remover palavras do Histórico
 - Remover palavras de favocitos
 - Filtrar palavras nos favoritos
 - Funcionalidade de cache offline
@@ -84,7 +83,7 @@ Android Studio é um ambiente de desenvolvimento integrado para desenvolver para
 
 ## Stay in touch
 
-- Author - [@Natalí Dias](https://kamilmysliwiec.com)
+- Author - [@Natalí Dias]
 - Plataforma - [@Android Studio](https://developer.android.com/studio/intro?hl=pt-br)
 
 ## License
