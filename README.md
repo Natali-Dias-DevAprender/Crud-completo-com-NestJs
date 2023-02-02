@@ -56,14 +56,6 @@ core - funcionalidade central, dados, domínio e camadas de apresentação
 mobile - camada de interface do usuário do aplicativo móvel
 desgaste - camada de interface do usuário do aplicativo de desgaste
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- [NestJS](https://nestjs.com/): framework utilizado para criação da aplicação.
-- [Postgres](https://www.postgresql.org/): banco SQL utilizado para armazenar os dados.
-- [Docker](https://www.docker.com/) e [Docker-compose](https://docs.docker.com/compose/install/): utilizado para criar e rodar o container do banco de dados.
-- [Jest](https://jestjs.io/): utilizado para escrever os testes da aplicação.
-- [GitFlow](https://github.com/nvie/gitflow): utilizado no fluxo de desenvolvimento.
-
 
 <h1
 ## Tech Stack
@@ -73,8 +65,6 @@ Android Studio
 Kotlin
 Android framework
  
-
-Esse projeto é um simple CRUD de produtos desenvolvido com o intuito de estudar o framework [NestJS](https://nestjs.com/). Porém aplicando alguns conceitos mais avançados como: TDD, GitFlow, Docker, etc.
 
 ## ⚡ Como rodar
 
