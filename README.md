@@ -57,7 +57,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
  /[palavra]
  /significados/[palavra]
  /meanings/[palavra]
-- LiveData
+- LiveData, para dados observáveis
  
 
 
