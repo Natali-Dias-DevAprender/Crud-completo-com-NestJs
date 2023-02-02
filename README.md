@@ -69,14 +69,18 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Bibliotecas - CardView
 
 
-## Implementações importantes para o seu projeto
+## 1 Implementações importantes para o seu projeto
 
 <p align="center">
   <a href="https://media.discordapp.net/attachments/1019265341311963186/1070718472922869780/imagem_2023-02-02_115343255.png?width=628&height=377" target="blank"><img src="https://media.discordapp.net/attachments/1019265341311963186/1070718472922869780/imagem_2023-02-02_115343255.png?width=628&height=377" width="200" alt="Nest Logo" /></a>
 </p>
 
+## 2 Implementação de web service
 
 
+<p align="center">
+  <a href="https://discord.com/channels/1017554197744464024/1019265341311963186/1070719671520735272" target="blank"><img src="https://discord.com/channels/1017554197744464024/1019265341311963186/1070719671520735272" width="200" alt="Nest Logo" /></a>
+</p>
 
  ## API
 [Free Dictionary API](https://dictionaryapi.dev/)
