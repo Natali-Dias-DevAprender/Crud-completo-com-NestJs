@@ -35,7 +35,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Funcionalidade de cache offline
 - Funcionalidade de conversão de palavras em aúdio
 - Design de Tema Claro e Escuro
-- Caches e exibe pesquisas anteriores
+- Caches e exibição de pesquisas anteriores
 - Exibição de palavra, significados e a fonética
 
 
