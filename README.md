@@ -10,7 +10,7 @@
   exibir termos em inglês e gerenciar as palavras visualizadas.
 
 <p align="center">
-  <a href="https://media.discordapp.net/attachments/1019265341311963186/1070543140374728805/coodeshlogo.png?width=720&height=221" target="blank"><img src="https://media.discordapp.net/attachments/1019265341311963186/1070543140374728805/coodeshlogo.png?width=720&height=221" width="200" alt="Nest Logo" /></a>
+  <a href="https://www.canva.com/design/DAFZY00BNpY/XhXDzUh22nDATgkVYXk1TA/view?utm_content=DAFZY00BNpY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" target="blank"><img src="https://www.canva.com/design/DAFZY00BNpY/XhXDzUh22nDATgkVYXk1TA/view?utm_content=DAFZY00BNpY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" width="200" alt="Nest Logo" /></a>
 </p>
 
 
