@@ -32,9 +32,8 @@
 <br>
 
 
- <h1 align="vertical">
+
   ## 📚 Features
-</h1>
 
 
 Ele fornece as seguintes funcionalidades para o usuário:
@@ -47,9 +46,9 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Remover palavras dos favoritos
 - Filtrar palavras nos favoritos
 
-<h1 align="vertical">
+
   ## 💻 Arquitetura
-</h1>
+
 
 Existem três módulos no aplicativo:
 
@@ -57,9 +56,8 @@ Existem três módulos no aplicativo:
 - mobile - camada de interface do usuário do aplicativo móvel
 - desgaste - camada de interface do usuário do aplicativo de desgaste
 
-<h1
+
 ## Tech Stack
-<h/1>
 
 - Core
 - Android Studio
@@ -67,21 +65,18 @@ Existem três módulos no aplicativo:
 - Android framework
  
 
-<h1
+
 ## Bibliotecas
-</h1>
 
 - Retrofit - HTTP network library
- - ViewModel - is designed to store and manage UI-related data in a lifecycle conscious
+- ViewModel - is designed to store and manage UI-related data in a lifecycle conscious
 
 
  ## API
-
-
 [Free Dictionary API](https://dictionaryapi.dev/)
 
 
-### Subir o banco
+## Subir o banco
 
 - crie uma cópia do `.env.example` como `.env` e defina suas variáveis do banco.
 - suba o banco de dados com docker: `docker-compose up -d`.
