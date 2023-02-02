@@ -68,6 +68,9 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Biblioteca Gson: para analisar o json dentro do aplicativo.
 - Bibliotecas - CardView
 
+ <h1 align="center">
+ Install
+</h1>
 
 ## 1 Implementações importantes para o seu projeto
 
@@ -75,11 +78,12 @@ Ele fornece as seguintes funcionalidades para o usuário:
   <a href="https://media.discordapp.net/attachments/1019265341311963186/1070718472922869780/imagem_2023-02-02_115343255.png?width=628&height=377" target="blank"><img src="https://media.discordapp.net/attachments/1019265341311963186/1070718472922869780/imagem_2023-02-02_115343255.png?width=628&height=377" width="200" alt="Nest Logo" /></a>
 </p>
 
+
 ## 2 Implementação de web service
 
 
 <p align="center">
-  <a href="https://discord.com/channels/1017554197744464024/1019265341311963186/1070719671520735272" target="blank"><img src="https://discord.com/channels/1017554197744464024/1019265341311963186/1070719671520735272" width="200" alt="Nest Logo" /></a>
+  <a href="https://media.discordapp.net/attachments/1019265341311963186/1070719671327784960/dd.png?width=551&height=377" target="blank"><img src="https://media.discordapp.net/attachments/1019265341311963186/1070719671327784960/dd.png?width=551&height=3772" width="200" alt="Nest Logo" /></a>
 </p>
 
  ## API
