@@ -69,9 +69,12 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Bibliotecas - CardView
 
 
+## Certifique-se de iplementar o Retrofit no seu projeto
+https://media.discordapp.net/attachments/1019265341311963186/1070717638013108224/impleRetrofit.png?width=774&height=166
+
+
  ## API
 [Free Dictionary API](https://dictionaryapi.dev/)
-
 
 ## Subir o banco
 
@@ -89,4 +92,4 @@ Android Studio é um ambiente de desenvolvimento integrado para desenvolver para
 - Plataforma - [@Android Studio](https://developer.android.com/studio/intro?hl=pt-br)
 
 ## License
-Feito com ♥ by [Coodesh](https://coodesh.com).
+Challenge ♥ by [Coodesh](https://coodesh.com).
