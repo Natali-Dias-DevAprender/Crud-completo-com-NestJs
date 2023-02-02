@@ -68,9 +68,9 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Biblioteca Gson: para analisar o json dentro do aplicativo.
 - Bibliotecas - CardView
 
- <h1 align="center">
+ <h1 align="vertical">
  Install
-</h1>
+</h1
 
 ## 1 Implementações importantes para o seu projeto
 
