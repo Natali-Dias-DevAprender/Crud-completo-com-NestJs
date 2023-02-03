@@ -9,7 +9,7 @@
 
   ## ✏️ Introdução
 
-  Este é um aplicativo de dicionário para o Android. Basicamente, foi criado para o idioma inglês. O dicionário está em modelo de protótipo.
+  Este é um aplicativo de dicionário para o Android. Basicamente, foi criado para o idioma inglês.
   Você pode adicionar mais palavras na classe de palavras que está sob a atividade principal deste projeto. Eu usei a visualização do RecyclerView para listar as  
   palavras. Além disso, colocou o botão de pesquisa na parte superior da visualização, onde você pode pesquisar uma palavra específica e encontrar seu significado.
   
