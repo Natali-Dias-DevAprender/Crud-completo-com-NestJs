@@ -53,6 +53,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Usando a linguagem Kotlin
 - Clean Code e Arquitetura MVVM
 - Android framework
+- Material Design 
 - Significados podem ser acessados através do método GET em qualquer uma das seguintes rotas:
  /[palavra]
  /significados/[palavra]
