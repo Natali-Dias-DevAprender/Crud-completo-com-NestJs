@@ -87,11 +87,14 @@ Ele fornece as seguintes funcionalidades para o usuário:
 
 3.Configure as opções do projeto: Escolha o nome do seu aplicativo, o nome do pacote, a versão do Android e o diretório de destino. Selecione o "Kotlin" como linguagem de programação e clique em "Criar projeto".
 
-4.Adicione a funcionalidade: Acesse os arquivos do projeto no Android Studio e adicione a funcionalidade desejada aos arquivos Java ou Kotlin.
+4.Adicione a funcionalidade: Acesse os arquivos do projeto no Android Studio e adicione a funcionalidade desejada aos arquivos Kotlin.
 
 5.Teste o aplicativo: Conecte seu dispositivo Android ou use o simulador do Android Studio para testar o aplicativo. Certifique-se de que tudo está funcionando corretamente.
 6. Voce precisará usar a API [Free Dictionary API](https://dictionaryapi.dev/) pra desenvolver este programa.
-7. 
+7. Utilizar arquitetura MVVM:
+- Defina os casos de uso do aplicativo: São as funcionalidades de alto nível que o aplicativo deve ter, como pesquisar palavras, adicionar palavras, editar palavras etc.
+
+- Criar entidades: Entidades são os objetos principais na camada de domínio, representando os objetos de negócios no aplicativo, como palavras
 
 
 
