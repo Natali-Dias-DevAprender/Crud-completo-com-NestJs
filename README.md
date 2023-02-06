@@ -61,7 +61,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - LiveData, para dados observáveis
 - IU
  
-## dependicies
+## 📌 Dependencies
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.6.0'
     implementation 'com.google.android.material:material:1.8.0'
@@ -95,40 +95,47 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Defina os casos de uso do aplicativo: São as funcionalidades de alto nível que o aplicativo deve ter, como pesquisar palavras, adicionar palavras, editar palavras etc.
 
 - Model: Defina o modelo de dados que o aplicativo precisa manipular, incluindo suas propriedades e métodos.
-
 - View: Crie a interface do usuário que apresentará os dados do modelo para o usuário.
-
 - ViewModel: Escreva o código que irá conectar a View e o Model, expondo as propriedades e os comandos do modelo para a View e atualizando o modelo com as ações do 
   usuário na View.
-
 - Binding: Vincule as propriedades da ViewModel às propriedades da View, para que as alterações feitas na ViewModel sejam automaticamente refletidas na View.
-
 - Implementação: Implemente as funcionalidades restantes do aplicativo, incluindo a lógica de negócios e outros comportamentos.
 - Para implementar o banco de dados SQLite em um aplicativo utilizando a arquitetura MVVM, você precisa seguir estes passos:
 
+8. Implementação do banco de dados SQL LITE:
 - Adicionar a biblioteca SQLite ao seu projeto. Isso pode ser feito baixando o pacote apropriado ou adicionando uma referência a ele em seu arquivo de projeto, 
   dependendo da plataforma e das ferramentas que você está usando.
-
 - Criar um modelo para representar os dados que você deseja armazenar no banco de dados. Este modelo pode ser uma classe simples ou uma classe complexa que representa 
   uma entidade ou relação em seu aplicativo.
-
 - Criar um repositório para gerenciar o acesso aos dados no banco de dados. Este repositório pode ser uma classe que contém métodos para consultar, inserir, atualizar 
   e excluir dados.
-
 - Incluir a lógica para criar e conectar ao banco de dados no momento adequado, por exemplo, quando o aplicativo é iniciado.
-
 - Utilizar o repositório para acessar e manipular os dados armazenados no banco de dados, como consultar, inserir, atualizar e excluir dados, a partir da camada 
   ViewModel.
-
 - Atualizar a ViewModel quando houver alterações nos dados armazenados no banco de dados, para que as alterações sejam automaticamente refletidas na View.
 
-
-
-
-
-
-
-
+9.  Para criar um arquivo XML, você precisa seguir estes passos:
+- Abrir um editor de texto ou um aplicativo de desenvolvimento, como o Visual Studio ou o Android Studio.
+- Criar um novo arquivo e salvar com a extensão .xml.
+- Definir a estrutura do seu documento XML, incluindo elementos, atributos e valores. Cada elemento é delimitado por tags <>, enquanto os atributos são incluídos - -
+  dentro das tags, como <elemento atributo="valor">.
+- Incluir dados dentro dos elementos, como texto ou outros elementos.
+- Validar o arquivo XML para garantir que ele seja válido e que siga as regras da linguagem XML.
+- Exemplo de um arquivo XML simples:
+ <?xml version="1.0"?>
+<livros>
+  <livro>
+    <título>O Pequeno Príncipe</título>
+    <autor>Antoine de Saint-Exupéry</autor>
+    <ano>1943</ano>
+  </livro>
+  <livro>
+    <título>O Lobo da Estepe</título>
+    <autor>Herman Hesse</autor>
+    <ano>1927</ano>
+  </livro>
+</livros>
+Você pode utilizar o arquivo XML para armazenar configurações, recursos de interface de usuário, dados de aplicativo, entre outros.
 
 
 ## Licença
