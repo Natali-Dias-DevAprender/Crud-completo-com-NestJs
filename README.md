@@ -98,11 +98,29 @@ Ele fornece as seguintes funcionalidades para o usuário:
 
 - View: Crie a interface do usuário que apresentará os dados do modelo para o usuário.
 
-- ViewModel: Escreva o código que irá conectar a View e o Model, expondo as propriedades e os comandos do modelo para a View e atualizando o modelo com as ações do usuário na View.
+- ViewModel: Escreva o código que irá conectar a View e o Model, expondo as propriedades e os comandos do modelo para a View e atualizando o modelo com as ações do 
+  usuário na View.
 
 - Binding: Vincule as propriedades da ViewModel às propriedades da View, para que as alterações feitas na ViewModel sejam automaticamente refletidas na View.
 
 - Implementação: Implemente as funcionalidades restantes do aplicativo, incluindo a lógica de negócios e outros comportamentos.
+- Para implementar o banco de dados SQLite em um aplicativo utilizando a arquitetura MVVM, você precisa seguir estes passos:
+
+- Adicionar a biblioteca SQLite ao seu projeto. Isso pode ser feito baixando o pacote apropriado ou adicionando uma referência a ele em seu arquivo de projeto, 
+  dependendo da plataforma e das ferramentas que você está usando.
+
+- Criar um modelo para representar os dados que você deseja armazenar no banco de dados. Este modelo pode ser uma classe simples ou uma classe complexa que representa 
+  uma entidade ou relação em seu aplicativo.
+
+- Criar um repositório para gerenciar o acesso aos dados no banco de dados. Este repositório pode ser uma classe que contém métodos para consultar, inserir, atualizar 
+  e excluir dados.
+
+- Incluir a lógica para criar e conectar ao banco de dados no momento adequado, por exemplo, quando o aplicativo é iniciado.
+
+- Utilizar o repositório para acessar e manipular os dados armazenados no banco de dados, como consultar, inserir, atualizar e excluir dados, a partir da camada 
+  ViewModel.
+
+- Atualizar a ViewModel quando houver alterações nos dados armazenados no banco de dados, para que as alterações sejam automaticamente refletidas na View.
 
 
 
@@ -111,19 +129,6 @@ Ele fornece as seguintes funcionalidades para o usuário:
 
 
 
-
-
-
-
-
-
-
-
-
-## Subir o banco
-
-- Banco de dados: SQLite
-- crie uma cópia do `.env.example` como `.env` e defina suas variáveis do banco.
 
 
 ## Licença
