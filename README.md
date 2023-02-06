@@ -91,10 +91,21 @@ Ele fornece as seguintes funcionalidades para o usuário:
 
 5.Teste o aplicativo: Conecte seu dispositivo Android ou use o simulador do Android Studio para testar o aplicativo. Certifique-se de que tudo está funcionando corretamente.
 6. Voce precisará usar a API [Free Dictionary API](https://dictionaryapi.dev/) pra desenvolver este programa.
-7. Utilizar arquitetura MVVM:
+7. Utilize arquitetura MVVM:
 - Defina os casos de uso do aplicativo: São as funcionalidades de alto nível que o aplicativo deve ter, como pesquisar palavras, adicionar palavras, editar palavras etc.
 
-- Criar entidades: Entidades são os objetos principais na camada de domínio, representando os objetos de negócios no aplicativo, como palavras
+- Model: Defina o modelo de dados que o aplicativo precisa manipular, incluindo suas propriedades e métodos.
+
+- View: Crie a interface do usuário que apresentará os dados do modelo para o usuário.
+
+- ViewModel: Escreva o código que irá conectar a View e o Model, expondo as propriedades e os comandos do modelo para a View e atualizando o modelo com as ações do usuário na View.
+
+- Binding: Vincule as propriedades da ViewModel às propriedades da View, para que as alterações feitas na ViewModel sejam automaticamente refletidas na View.
+
+- Implementação: Implemente as funcionalidades restantes do aplicativo, incluindo a lógica de negócios e outros comportamentos.
+
+
+
 
 
 
