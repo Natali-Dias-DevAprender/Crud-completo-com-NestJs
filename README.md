@@ -91,7 +91,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 
 5.Teste o aplicativo: Conecte seu dispositivo Android ou use o simulador do Android Studio para testar o aplicativo. Certifique-se de que tudo está funcionando corretamente.
 6. Voce precisará usar a API [Free Dictionary API](https://dictionaryapi.dev/) pra desenvolver este programa.
-7. Utilize arquitetura MVVM:
+7. Para criar sua aplicatição utilizando a arquitetura MVVM (Model-View-ViewModel), você precisa seguir os seguintes passos:
 - Defina os casos de uso do aplicativo: São as funcionalidades de alto nível que o aplicativo deve ter, como pesquisar palavras, adicionar palavras, editar palavras etc.
 
 - Model: Defina o modelo de dados que o aplicativo precisa manipular, incluindo suas propriedades e métodos.
@@ -102,7 +102,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Implementação: Implemente as funcionalidades restantes do aplicativo, incluindo a lógica de negócios e outros comportamentos.
 - Para implementar o banco de dados SQLite em um aplicativo utilizando a arquitetura MVVM, você precisa seguir estes passos:
 
-8. Implementação do banco de dados SQL LITE:
+8. Para implementar o banco de dados SQLite, você precisa seguir estes passos:
 - Adicionar a biblioteca SQLite ao seu projeto. Isso pode ser feito baixando o pacote apropriado ou adicionando uma referência a ele em seu arquivo de projeto, 
   dependendo da plataforma e das ferramentas que você está usando.
 - Criar um modelo para representar os dados que você deseja armazenar no banco de dados. Este modelo pode ser uma classe simples ou uma classe complexa que representa 
