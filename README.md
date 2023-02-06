@@ -62,7 +62,9 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - IU
  
 
-
+ <h1 align="center">
+ 📝Como usa
+</h1>
 ## Bibliotecas
 
 - Retrofit - HTTP network library
