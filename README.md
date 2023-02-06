@@ -61,37 +61,50 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - LiveData, para dados observáveis
 - IU
  
+## dependicies
+    implementation 'androidx.core:core-ktx:1.7.0'
+    implementation 'androidx.appcompat:appcompat:1.6.0'
+    implementation 'com.google.android.material:material:1.8.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.5.1'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.5.3'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.5.3'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+
 
  <h1 align="center">
- 📝Como usa
+ 📝Como usar
 </h1>
-## Bibliotecas
+1.Instale o Android Studio: É a plataforma oficial do Google para o desenvolvimento de aplicativos Android. Você pode baixá-lo em https://developer.android.com/studio/.
 
-- Retrofit - HTTP network library
-- ViewModel - is designed to store and manage UI-related data in a lifecycle conscious
-- Biblioteca Gson: para analisar o json dentro do aplicativo.
-- Bibliotecas - CardView
+2.Crie um novo projeto: Abra o Android Studio e selecione "Novo projeto" na tela inicial. Escolha "Aplicativo Android" como tipo de projeto e clique em "Avançar".
 
+3.Configure as opções do projeto: Escolha o nome do seu aplicativo, o nome do pacote, a versão do Android e o diretório de destino. Selecione o "Kotlin" como linguagem de programação e clique em "Criar projeto".
 
-## Install
+4.Adicione a funcionalidade: Acesse os arquivos do projeto no Android Studio e adicione a funcionalidade desejada aos arquivos Java ou Kotlin.
 
-
-## Implementações de dependêcias do Retrofit no nosso projeto
-
-<p align="center">
-  <a href="https://media.discordapp.net/attachments/1019265341311963186/1070718472922869780/imagem_2023-02-02_115343255.png?width=628&height=377" target="blank"><img src="https://media.discordapp.net/attachments/1019265341311963186/1070718472922869780/imagem_2023-02-02_115343255.png?width=628&height=377" width="200" alt="Nest Logo" /></a>
-</p>
+5.Teste o aplicativo: Conecte seu dispositivo Android ou use o simulador do Android Studio para testar o aplicativo. Certifique-se de que tudo está funcionando corretamente.
+6. Voce precisará usar a API [Free Dictionary API](https://dictionaryapi.dev/) pra desenvolver este programa.
+7. 
 
 
-## Implementação da web service(Abra a imagem)
 
 
-<p align="center">
-  <a href="https://media.discordapp.net/attachments/1019265341311963186/1070719671327784960/dd.png?width=551&height=377" target="blank"><img src="https://media.discordapp.net/attachments/1019265341311963186/1070719671327784960/dd.png?width=551&height=3772" width="200" alt="Nest Logo" /></a>
-</p>
 
- ## API
-[Free Dictionary API](https://dictionaryapi.dev/)
+
+
+
+
+
+
+
+
 
 ## Subir o banco
 
